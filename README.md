@@ -9,11 +9,14 @@ class SoftwareEngineer:
     def __init__(self):
         self.name = "Patrik Kavan"
         self.role = "Student"
-        self.language = ["SK", "CZ","EN"]
+        self.language_spoken = ["SK", "CZ","EN"]
+        self.programming_languages = ["Python","C++","C#","JS","Java"]
 
     def say_hi(self):
         print("Hello there.")
-    
+        
+    def get_info(self):
+        return self.name, self.role, self.language_spoken, self.programming_languages
 
 
 me = SoftwareEngineer()
