@@ -10,7 +10,7 @@ class SoftwareEngineer:
         self.name = "Patrik Kavan"
         self.role = "Student"
         self.language_spoken = ["SK", "CZ","EN"]
-        self.programming_languages = ["Python","C++","C#","JS","Java"]
+        self.programming_languages = ["Python","C++","C#","JavaScript","Java"]
 
     def say_hi(self):
         print("Hello there.")
