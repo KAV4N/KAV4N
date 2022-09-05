@@ -1,4 +1,24 @@
-### Hi there 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! Nice to see you here.</h1>
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class SoftwareEngineer:
+    def __init__(self):
+        self.name = "Patrik Kavan"
+        self.role = "Student"
+        self.language = ["SK", "CZ","EN"]
+
+    def say_hi(self):
+        print("Hello there.")
+    
+
+
+me = SoftwareEngineer()
+me.say_hi()
+```
 
 <div>
   <a href="https://git.io/streak-stats">
