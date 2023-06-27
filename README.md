@@ -23,17 +23,21 @@ class SoftwareEngineer:
 me = SoftwareEngineer()
 me.say_hi()
 ```
-
 <div>
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=KAV4N&theme=tokyonight&hide_border=true" width="350" align = "right"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=KAV4N&theme=tokyonight&show_icons=true" width="350"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAV4N&theme=tokyonight&layout=compact"  width="350" />
-  </a>
+    <div>
+      <a href="https://git.io/streak-stats">
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=KAV4N&theme=tokyonight" width="350" align = "right"/>
+      </a>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=KAV4N&theme=tokyonight&show_icons=true" width="350"/>
+      </a>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAV4N&theme=tokyonight&layout=compact"  width="350" />
+      </a>
+    </div>
+    <div>
+        <img src="https://komarev.com/ghpvc/?username=KAV4N&style=flat-square" />
+    </div>
 </div>
 
 
