@@ -35,9 +35,6 @@ me.say_hi()
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAV4N&theme=tokyonight&layout=compact"  width="350" />
       </a>
     </div>
-    <div>
-        <img src="https://komarev.com/ghpvc/?username=KAV4N&style=flat-square" />
-    </div>
 </div>
 
 
